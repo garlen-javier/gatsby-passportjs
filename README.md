@@ -11,4 +11,6 @@
 **Link to tutorial:** [Gatsby & PassportJS + Netlify Lambda](https://www.meekcode.com/blog/gatsby-passportjs-netlify-lambda)
 <br><br>
 
+Don't forget to leave a star:star: if you find these example projects useful :wink:
+
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/garlen-javier/gatsby-passportjs)
