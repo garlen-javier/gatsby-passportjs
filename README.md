@@ -7,6 +7,7 @@
 <h1 align="center">
   Gatsby | PassportJS | Netlify Lambda
 </h1>
+<br>
 
 **Link to tutorial:** [Gatsby & PassportJS + Netlify Lambda](https://www.meekcode.com/blog/gatsby-passportjs-netlify-lambda)
 <br><br>
